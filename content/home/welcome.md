@@ -3,9 +3,7 @@ widget: hero
 widget_id: Introduction
 headless: true
 weight: 10
-title: |
-  Wowchemy  
-  Research Group
+title: Biometrics Research and Innovation Centre
 hero_media: welcome.jpg
 design:
   columns: "1"
