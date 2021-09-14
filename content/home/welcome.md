@@ -4,11 +4,15 @@ widget_id: Introduction
 headless: true
 weight: 10
 title: Biometrics Research and Innovation Centre
-hero_media: welcome.jpg
+subtitle: ""
+active: false
 design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: ""
+hero_media: welcome.jpg
 ---
 <br>
 
