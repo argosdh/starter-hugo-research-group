@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Introduction
 headless: true
-weight: 10
+weight: 20
 title: Biometrics Research and Innovation Centre
 subtitle: ""
 active: false
